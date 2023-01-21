@@ -1,0 +1,10 @@
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\bin\Debug\Atomiki1.exe.config
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\bin\Debug\Atomiki1.exe
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\bin\Debug\Atomiki1.pdb
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\Atomiki1.csprojAssemblyReference.cache
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\Atomiki1.csproj.GenerateResource.cache
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\Atomiki1.csproj.CoreCompileInputs.cache
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\Atomiki1.exe
+C:\Users\mithe\source\repos\Atomiki1\Atomiki1\obj\Debug\Atomiki1.pdb
